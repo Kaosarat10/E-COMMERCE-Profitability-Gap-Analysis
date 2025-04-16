@@ -56,8 +56,7 @@ An online retail store experienced consistent growth in sales and profit. Howeve
 - **Monthly Trend Chart**: Identified sales peaks in March, August, and November
 
 
-> [Sales & Profit Performance Dashboard]((https://github.com/Kaosarat10/E-COMMERCE-Profitability-Gap-Analysis/blob/main/E-Commerce%20Profitability%20analysis%20dashboard.png))
-
+> [Sales & Profit Performance Dashboard]([(E-Commerce Profitability analysis dashboard.png)](https://github.com/Kaosarat10/E-COMMERCE-Profitability-Gap-Analysis/blob/main/E-Commerce%20Profitability%20analysis%20dashboard.png)
 ---
 
 ## Key Insights

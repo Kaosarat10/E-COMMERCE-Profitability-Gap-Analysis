@@ -53,10 +53,10 @@ An online retail store experienced consistent growth in sales and profit. Howeve
 - **Top Products by Revenue and Profit**: Tablets, Laptops, Headphones
 - **Most Ordered Categories**: Accessories and Mobile Devices
 - **Profit Contribution Breakdown**: Electronics led the chart
-- **Monthly Trend Chart**: Identified sales peaks in March, July, and September
+- **Monthly Trend Chart**: Identified sales peaks in March, August, and November
 
 
-> [Sales & Profit Performance Dashboard]([dashboard.png](https://github.com/Kaosarat10/E-COMMERCE-Profitability-Gap-Analysis/blob/main/E-Commerce%20Profitability%20analysis%20dashboard.png))
+> [Sales & Profit Performance Dashboard]((https://github.com/Kaosarat10/E-COMMERCE-Profitability-Gap-Analysis/blob/main/E-Commerce%20Profitability%20analysis%20dashboard.png))
 
 ---
 

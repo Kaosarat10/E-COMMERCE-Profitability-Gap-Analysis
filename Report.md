@@ -56,7 +56,7 @@ An online retail store experienced consistent growth in sales and profit. Howeve
 - **Monthly Trend Chart**: Identified sales peaks in March, July, and September
 
 
-> [Sales & Profit Performance Dashboard](dashboard.png)
+> [Sales & Profit Performance Dashboard]([dashboard.png](https://github.com/Kaosarat10/E-COMMERCE-Profitability-Gap-Analysis/blob/main/E-Commerce%20Profitability%20analysis%20dashboard.png))
 
 ---
 
@@ -81,17 +81,6 @@ The dashboard provided a clear picture of the disconnect between revenue growth 
 
 ---
 
-## File Structure
-```
-Ecommerce-Profitability-Analysis/
-├── data/
-│   └── ecommerce_sales_2019_2024.xlsx
-├── dashboard/
-│   └── dashboard.pbix
-│   └── dashboard.png
-├── README.md
-└── analysis_report.md (this file)
-```
 
 ---
 
